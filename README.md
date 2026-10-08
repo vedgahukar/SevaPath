@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🇮🇳 SevaPath
 
 ### **From Government Information to Verified Action**
@@ -1663,7 +1663,6 @@ SevaPath follows a simple rule:
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **🇮🇳 SevaPath --- From Government Information to Verified Action**
 
 *Built for the Hacktober Fest Open Source AI Hackathon.*
